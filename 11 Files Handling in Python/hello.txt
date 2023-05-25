@@ -1,0 +1,4 @@
+Oops!! I have deleted the content!!
+ Python Beginner Course 
+ This is the File Handling Lesson.
+Append file with 'with' keyword
